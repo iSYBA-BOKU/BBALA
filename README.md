@@ -1,0 +1,2 @@
+# BioBrick Assembly Learning Aid
+This repository will contain the source code associated with the paper "BioBrick Assembly Learning Aid: An Interactive Web-Application For Facilitating The Teaching Of BioBricks" as soon as it has been accepted for publication.
